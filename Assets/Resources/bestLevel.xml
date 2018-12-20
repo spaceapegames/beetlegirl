@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<LevelSegments xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Level>
+		<!---place segement ids in order here, or use 'Random' to get a random one -->
+		<string>Segment 5</string>
+		<string>Segment 1</string>
+	    <string>Segment 2</string>
+	    <string>Segment 3</string>
+	    <string>Segment 4</string>
+	    <string>Random</string>
+	    
+	</Level>
+  <Segments>
+  <!---SEGMENT 1 -->
+  	<Segment>
+  	<ID>Segment 1</ID>
+  	<Columns>
+  		<Column>
+  			<Blocks>
+	  			<string>Moveable</string>
+			    <string>Moveable</string>
+			    <string>Moveable</string>
+			    <string>Flower</string>
+			    <string>Moveable</string>
+		    </Blocks>
+  		</Column>
+  		<Column>
+  			<Blocks>
+	  			<string>Moveable</string>
+			    <string>Air</string>
+			    <string>Moveable</string>
+			    <string>Moveavle</string>
+			    <string>Moveable</string>
+		    </Blocks>
+  		</Column>
+  		<Column>
+  			<Blocks>
+	  			<string>Flower</string>
+			    <string>Moveable</string>
+			    <string>Spike</string>
+			    <string>Moveable</string>
+			    <string>Moveable</string>
+		    </Blocks>
+  		</Column>
+        <Column>
+            <Blocks>
+                <string>Flower</string>
+                <string>Moveable</string>
+                <string>Moveable</string>
+                <string>Fire</string>
+                <string>Moveable</string>
+            </Blocks>
+        </Column>
+        <Column>
+            <Blocks>
+                <string>Air</string>
+                <string>Moveable</string>
+                <string>Moveable</string>
+                <string>Moveable</string>
+                <string>Flower</string>
+            </Blocks>
+        </Column>
+        <Column>
+            <Blocks>
+                <string>Air</string>
+                <string>Air</string>
+                <string>Moveable</string>
+                <string>Moveable</string>
+                <string>Air</string>
+            </Blocks>
+        </Column>
+  		</Columns>
+  	</Segment>
+  	<!---SEGMENT 2 -->
+  	<Segment>
+  	<ID>Segment 2</ID>
+  	<Columns>
+  		<Column>
+  			<Blocks>
+	  			<string>Air</string>
+			    <string>Air</string>
+			    <string>Immovable</string>
+			    <string>Immovable</string>
+			    <string>Immovable</string>
+		    </Blocks>
+  		</Column>
+  		<Column>
+  			<Blocks>
+	  			<string>Air</string>
+			    <string>Moveable</string>
+			    <string>Spike</string>
+			    <string>Moveable</string>
+			    <string>Moveable</string>
+		    </Blocks>
+  		</Column>
+  		<Column>
+  			<Blocks>
+	  			<string>Moveable</string>
+			    <string>Flower</string>
+			    <string>Moveable</string>
+			    <string>Moveable</string>
+			    <string>Air</string>
+		    </Blocks>
+  		</Column>
+  		</Columns>
+  	</Segment>
+    <!---SEGMENT 3 -->
+    <Segment>
+        <ID>Segment 3</ID>
+        <Columns>
+            <Column>
+                <Blocks>
+                    <string>Air</string>
+                    <string>Air</string>
+                    <string>Immovable</string>
+                    <string>Immovable</string>
+                    <string>Immovable</string>
+                </Blocks>
+            </Column>
+            <Column>
+                <Blocks>
+                    <string>Moveable</string>
+                    <string>Air</string>
+                    <string>Moveable</string>
+                    <string>Flower</string>
+                    <string>Moveable</string>
+                </Blocks>
+            </Column>
+            <Column>
+                <Blocks>
+                    <string>Moveable</string>
+                    <string>Spike</string>
+                    <string>Moveable</string>
+                    <string>Air</string>
+                    <string>Moveable</string>
+                </Blocks>
+            </Column>
+        </Columns>
+    </Segment>
+    
+    <!---SEGMENT 4 -->
+    <Segment>
+        <ID>Segment 4</ID>
+        <Columns>
+            <Column>
+                <Blocks>
+                    <string>Air</string>
+                    <string>Air</string>
+                    <string>Immovable</string>
+                    <string>Immovable</string>
+                    <string>Immovable</string>
+                </Blocks>
+            </Column>
+            <Column>
+                <Blocks>
+                    <string>Moveable</string>
+                    <string>Air</string>
+                    <string>Moveable</string>
+                    <string>Flower</string>
+                    <string>Moveable</string>
+                </Blocks>
+            </Column>
+            <Column>
+                <Blocks>
+                    <string>Moveable</string>
+                    <string>Air</string>
+                    <string>Moveable</string>
+                    <string>Spike</string>
+                    <string>Moveable</string>
+                </Blocks>
+            </Column>
+        </Columns>
+    </Segment>
+    
+     <!---SEGMENT 5 -->
+    <Segment>
+        <ID>Segment 5</ID>
+        <Columns>
+            <Column>
+                <Blocks>
+                    <string>Air</string>
+                    <string>Air</string>
+                    <string>Immovable</string>
+                    <string>Immovable</string>
+                    <string>Immovable</string>
+                </Blocks>
+            </Column>
+            <Column>
+                <Blocks>
+                    <string>Moveable</string>
+                    <string>Flower</string>
+                    <string>Moveable</string>
+                    <string>Moveable</string>
+                    <string>Moveable</string>
+                </Blocks>
+            </Column>
+            <Column>
+                <Blocks>
+                    <string>Moveable</string>
+                    <string>Air</string>
+                    <string>Moveable</string>
+                    <string>Moveable</string>
+                    <string>Air</string>
+                </Blocks>
+            </Column>
+            <Column>
+                <Blocks>
+                    <string>Moveable</string>
+                    <string>Air</string>
+                    <string>Moveable</string>
+                    <string>Moveable</string>
+                    <string>Moveable</string>
+                </Blocks>
+            </Column>
+            <Column>
+                <Blocks>
+                    <string>Moveable</string>
+                    <string>Spike</string>
+                    <string>Moveable</string>
+                    <string>Air</string>
+                    <string>Moveable</string>
+                </Blocks>
+            </Column>
+        </Columns>
+    </Segment>
+
+  </Segments>
+</LevelSegments>
+
+<!---public enum BlockType
+{
+	Air,
+	Moveable,
+	Immovable,
+	Spike,
+	Fire
+}-->
